@@ -1,0 +1,77 @@
+﻿
+
+
+#news {
+    padding: 30px;
+    background: #f2fbff;
+}
+
+    #news .contact-desc {
+        font-size: 18px;
+        color: #010c26;
+        font-weight: 500;
+        font-family: 'Poppins', sans-serif;
+    }
+
+    #news .news-text {
+        overflow: auto;
+        height: 151px;
+        font-size: 18px;
+        color: #565b67;
+        font-weight: 400;
+        font-family: 'Poppins', sans-serif;
+    }
+
+    #news .card-shads {
+        padding: 55px 30px;
+        background-color: rgb(255, 255, 255);
+        box-shadow: 0px 3px 15px 0px rgba(10, 96, 115, 0.5);
+    }
+
+    #news .mt-60 {
+        margin-top: 60px;
+    }
+
+    #news .mt-30 {
+        margin-top: 30px;
+    }
+
+    #news .mt-10 {
+        margin-top: 10px;
+    }
+
+    #news .btn-view-more {
+        width: 151px;
+        height: 40px;
+        color: #081635;
+        font-size: 13px;
+        border-width: 4px;
+        border-color: rgb(1, 12, 38);
+        border-style: solid;
+        border-radius: 23px;
+        font-weight: 600;
+        text-transform: uppercase;
+        font-family: 'Poppins', sans-serif;
+        background-color: rgba(255, 255, 255, 0);
+    }
+
+    #news .btn-icon {
+        font-size: 17px;
+        bottom: 58px;
+        position: absolute;
+        width: 35px;
+        height: 35px;
+        padding: 9px;
+        color: #ffffff;
+        border-radius: 50%;
+        background: #010c26;
+        left: 144px;
+    }
+
+
+
+
+    #news .image-shads {
+        background-color: rgb(255, 255, 255);
+        box-shadow: 0px 3px 15px 0px rgba(10, 96, 115, 0.5);
+    }
